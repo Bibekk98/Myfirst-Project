@@ -16,8 +16,8 @@ namespace htel
 
             Console.WriteLine("\t\t\tWelcome to sydney hotel");
             int i = 0;
-            string[] name = new string[20];
-            int[] night = new int[20];
+            list <string> name = new list<string>();
+            liat <int>night = new liat<int>();
             string[] roomservice = new string[20];
             double[] costlist = new double[20];
 
